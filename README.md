@@ -1,38 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Teko&weight=800&size=25&pause=1000&color=41A934&width=435&lines=Hi+I+am+Injamul+Haque;A+passionate+developer;from+Bangladesh)](https://git.io/typing-svg)
 
 <h2 align='left'>
-  Softwares I Use:-<br/><br/>
+  Technologies I Adore:-<br/><br/>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
-
-###
-
+  
 ## My Skill Set
 
 <table><tr><td valign="top" width="50%">
@@ -73,7 +45,11 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 </td>
-## Connect with me
+</div>
+
+###
+
+<h3 align="left">Connect with me:</h3>
 
 <div align="center">
 <a href="https://github.com/haque somrat" target="_blank">
@@ -97,15 +73,6 @@
 
 ####
 
-</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haquesomrat&label=Profile%20views&color=0e75b6&style=flat" alt="haquesomrat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haquesomrat" alt="haquesomrat" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/injam_somrat" target="blank"><img src="https://img.shields.io/twitter/follow/injam_somrat?logo=twitter&style=for-the-badge" alt="injam_somrat" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/injam_somrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="injam_somrat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-injamul-haque-308384186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-injamul-haque-308384186" height="30" width="40" /></a>
