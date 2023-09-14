@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=22F775&center=true&width=435&lines=Hi%2C++I+am+Injamul+Haque;A+Passionate+;Web+Developer%2C;Learner%2C;Tech+lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=22F775&center=true&width=435&lines=Hi%2C++I+am+Injamul+Haque;A+Passionate+;Web+Developer%2C;Learner%2C;Tech+lover)](https://git.io/typing-svg)
 
 ###
 
@@ -29,7 +29,7 @@
 
 ### My Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haquesomrat" alt="haquesomrat" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haquesomrat" alt="haquesomrat" /></a> </p>
 
 <!-- statistics -->
 
@@ -37,12 +37,12 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haquesomrat&show_icons=true&locale=en&layout=compact" alt="haquesomrat" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=haquesomrat&show_icons=true&locale=en&layout=compact" alt="haquesomrat" />
 
 <br/>
 
 <h3 align="left">🔥   My Stats :</h3>
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img  src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
