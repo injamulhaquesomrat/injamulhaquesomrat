@@ -1,5 +1,51 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Teko&weight=800&size=25&pause=1000&color=41A934&width=435&lines=Hi+I+am+Injamul+Haque;A+passionate+developer;from+Bangladesh)](https://git.io/typing-svg)
 
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haquesomrat&label=Profile%20views&color=0e75b6&style=flat" alt="haquesomrat" /> </p>
+<h3 align="left">Connect with me:</h3>
+
+<div align="center">
+<a href="https://github.com/haque somrat" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/injam_somrat" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/md-injamul-haque-308384186" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+<br/>
+
+####
+
+</h2>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haquesomrat" alt="haquesomrat" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/injam_somrat" target="blank"><img src="https://img.shields.io/twitter/follow/injam_somrat?logo=twitter&style=for-the-badge" alt="injam_somrat" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haquesomrat&show_icons=true&locale=en&layout=compact" alt="haquesomrat" /></p>
+
+<!-- statistics -->
+
+###
+
+<div align="center">
+<h3 align="left">🔥   My Stats :</h3>
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 <h2 align='left'>
   Technologies I Adore:-<br/><br/>
 
@@ -46,57 +92,3 @@
 </div>
 </td>
 </div>
-
-###
-
-<h3 align="left">Connect with me:</h3>
-
-<div align="center">
-<a href="https://github.com/haque somrat" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/injam_somrat" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/md-injamul-haque-308384186" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
-
-<br/>
-
-####
-
-</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haquesomrat&label=Profile%20views&color=0e75b6&style=flat" alt="haquesomrat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haquesomrat" alt="haquesomrat" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/injam_somrat" target="blank"><img src="https://img.shields.io/twitter/follow/injam_somrat?logo=twitter&style=for-the-badge" alt="injam_somrat" /></a> </p>
-
-<p align="left">
-<a href="https://twitter.com/injam_somrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="injam_somrat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-injamul-haque-308384186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-injamul-haque-308384186" height="30" width="40" /></a>
-<a href="https://fb.com/injamulhaquesomrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="injamulhaquesomrat" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haquesomrat&show_icons=true&locale=en&layout=compact" alt="haquesomrat" /></p>
-
-<!-- jdfgahfbjh -->
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
