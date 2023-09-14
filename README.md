@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Injamul Haque</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=600&size=40&pause=700&color=71E4FF&width=435&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Injamul+Haque;A+passionate+frontend;+developer+from+Bangladesh." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haquesomrat&label=Profile%20views&color=0e75b6&style=flat" alt="haquesomrat" /> </p>
 
