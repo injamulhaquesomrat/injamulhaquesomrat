@@ -1,8 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22F775&center=true&vCenter=true&width=435&lines=Hi%2C++I+am+Injamul+Haque;A+Passionate+;Web+Developer%2C;Learner%2C;Tech+lover)](https://git.io/typing-svg)
+<!-- intro  -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=51F791&width=435&lines=Hi+I'm+Injamul+Haque;I'm+a+web+developer;Passionate+about+websites)](https://git.io/typing-svg)
 
 ###
 
+<!-- visitors  -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=haquesomrat&label=Profile%20views&color=0e75b6&style=flat" alt="haquesomrat" /> </p>
+
+<!-- social links  -->
 <h3 align="center">Connect with me:</h3>
 
 <div align="center">
@@ -37,8 +42,6 @@
 
 <div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=haquesomrat&show_icons=true&locale=en&layout=compact" alt="haquesomrat" />
-
 <br/>
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -47,11 +50,12 @@
 
 ###
 
+<!-- languages & technologies -->
 <div align="left">
   
 <h2 align='center'>
   Technologies I Adore:-<br/><br/>
-
+</h2>
 <table><tr><td valign="top" width="50%">
 
 ### Skilled
@@ -74,7 +78,7 @@
 
 </td><td valign="top" width="50%">
 
-### Skill Desired
+### Skill Desire
 
 <div align="center">  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
@@ -90,4 +94,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 </td>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F79776&width=435&lines=%22Your+skill+should+be+better+than+your+strength%22)](https://git.io/typing-svg)
+
 </div>
