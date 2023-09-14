@@ -39,6 +39,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haquesomrat&show_icons=true&locale=en&layout=compact" alt="haquesomrat" />
+
+<br/>
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
