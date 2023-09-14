@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Teko&weight=800&size=25&pause=1000&color=41A934&width=435&lines=Hi+I+am+Injamul+Haque;A+passionate+developer;from+Bangladesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=22F775&center=true&width=435&lines=Hi%2C++I+am+Injamul+Haque;A+Passionate+;Web+Developer%2C;Learner%2C;Tech+lover)](https://git.io/typing-svg)
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haquesomrat&label=Profile%20views&color=0e75b6&style=flat" alt="haquesomrat" /> </p>
-<h3 align="left">Connect with me:</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=haquesomrat&label=Profile%20views&color=0e75b6&style=flat" alt="haquesomrat" /> </p>
+<h3 align="center">Connect with me:</h3>
 
 <div align="center">
 <a href="https://github.com/haque somrat" target="_blank">
@@ -27,13 +27,9 @@
 
 ####
 
-</h2>
+### My Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haquesomrat" alt="haquesomrat" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/injam_somrat" target="blank"><img src="https://img.shields.io/twitter/follow/injam_somrat?logo=twitter&style=for-the-badge" alt="injam_somrat" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haquesomrat&show_icons=true&locale=en&layout=compact" alt="haquesomrat" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haquesomrat" alt="haquesomrat" /></a> </p>
 
 <!-- statistics -->
 
@@ -41,17 +37,17 @@
 
 <div align="center">
 <h3 align="left">🔥   My Stats :</h3>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haquesomrat&show_icons=true&locale=en&layout=compact" alt="haquesomrat" />
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<h2 align='left'>
-  Technologies I Adore:-<br/><br/>
-
 <div align="left">
   
-## My Skill Set
+<h2 align='center'>
+  Technologies I Adore:-<br/><br/>
 
 <table><tr><td valign="top" width="50%">
 
