@@ -94,7 +94,6 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 </td>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F79776&width=435&lines=%22Your+skill+should+be+better+than+your+strength%22)](https://git.io/typing-svg)
-
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=F79C82&width=435&lines=%22Your+skill+should+be+;+better+than+your+strength.%22)](https://git.io/typing-svg)
