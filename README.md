@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=400&size=40&pause=100&color=C778DD&width=1000&lines=Hey+I+am+Injamul+Haque+Somrat;Web+designer+and+frontend+developer;Passionate+about+innovation+designs&center=true&vCenter=true)](https://git.io/typing-svg)
 
-###
+
 
 <!-- visitors  -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=haquesomrat&label=Profile%20views&color=0e75b6&style=flat" alt="injamulhaquesomrat" /> </p>
@@ -38,21 +38,6 @@
 
 ####
 
-<h3 align="center">
-My GitHub Commit Activity
-</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=injamulhaquesomrat&theme=dark" alt="Commit History" />
-</p>
-
-<h3 align="center">
-Real Profile Statistics
-</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=injamulhaquesomrat&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=injamulhaquesomrat&layout=compact&theme=dark" alt="Top Languages" />
@@ -74,7 +59,6 @@ Real Profile Statistics
 <!-- start::javascript -->
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <!-- end::javascript -->
- 
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>
 <!-- start::typescript -->
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://th.bing.com/th/id/R.99a29ede35ec2ddf1f968bcdb17dbfdd?rik=XCSlxNe4MX5SOg&pid=ImgRaw&r=0" alt="TypeScript" height="50" /></a>  
@@ -85,14 +69,20 @@ Real Profile Statistics
   <!-- start;:nextjs -->
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://innoblooms.com/logo/next-logo.png" alt="NextJS" height="50" /></a>
   <!-- end::nextjs -->
-  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://www.loopple.com/img/tailwind-logo-blue.png" alt="Tailwind CSS" height="50" /></a>  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="Bootstrap" height="50" /></a>   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://vectorseek.com/wp-content/uploads/2023/09/Node-Node.JS-Logo-Vector.svg-.png" alt="Node.js" height="50" /></a>  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://seekvectors.com/files/download/express.js-logo.png" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+  <!-- start::tailwindcss -->
+  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://www.loopple.com/img/tailwind-logo-blue.png" alt="Tailwind CSS" height="50" /></a> 
+  <!-- start::tailwindcss -->
+  <!-- start::bootstrap -->
+   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="Bootstrap" height="50" /></a>   
+  <!-- end::bootstrap -->
+   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://vectorseek.com/wp-content/uploads/2023/09/Node-Node.JS-Logo-Vector.svg-.png" alt="Node.js" height="50" /></a>  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://seekvectors.com/files/download/express.js-logo.png" alt="Express.js" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=512&id=74402&format=png" alt="MongoDB" height="50" /></a>  
+<a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://img.stackshare.io/service/9787/49996085.png" alt="Testing Library" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-
-
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<!-- start::redux -->
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-redux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030243.png?f=webp" alt="Redux" height="50" /></a>
+<!-- end::redux -->
 
 </div>
 
@@ -102,14 +92,15 @@ Real Profile Statistics
 
 <div align="center">  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJs" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=160&id=JRnxU7ZWP4mi&format=png" alt="PostgreSQL" height="50" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFi4_-9fNmkOc4nkBq6YLPG8higxuZsBuXGQ&s" alt="Styled Components" height="50" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" height="50" /></a>  
 </div>
 </td>
 </div>
