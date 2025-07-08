@@ -1,7 +1,6 @@
 <!-- intro  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ProFont&weight=700&size=30&pause=1000&color=51F791&width=846&lines=Hi+I'm+Injamul+Haque+Somrat.;I'm+a+web+developer.;Passionate+about+websites+innovation.&center=true&vCenter=true)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=400&size=40&pause=100&color=C778DD&width=1000&lines=Hey+I+am+Injamul+Haque+Somrat;Web+designer+and+frontend+developer;Passionate+about+innovation+designs&center=true&vCenter=true)](https://git.io/typing-svg)
 
 ###
 
@@ -39,29 +38,23 @@
 
 ####
 
-### My Trophies
+### My GitHub Commit Activity
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=injamulhaquesomrat" alt="injamulhaquesomrat" /></a> </p>
+![Commit History](https://github-readme-streak-stats.herokuapp.com/?user=injamulhaquesomrat&theme=dark)
 
-<!-- statistics -->
+### Real Profile Statistics
 
-###
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=injamulhaquesomrat&show_icons=true&theme=dark&hide_title=true&count_private=true)
 
-<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=injamulhaquesomrat&layout=compact&theme=dark)
 
-<br/>
-
-<h3 align="left">🔥   My Stats :</h3>
-  <img  src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=400&size=30&duration=3000&pause=1000&color=F79C82&width=1000&lines=Your+skill+should+be+better+than+your+strength;Great+works+comes+with+great+electricity+billl;Simplicity++is+the+soul+off+efficiency&center=true&vCenter=true)](https://git.io/typing-svg)
 
 <!-- languages & technologies -->
 <div align="left">
   
-<h2 align='center'>
-  Technologies I Adore:-<br/><br/>
+<h2 align='left'>
+  Technical Skills & Future Focus<br/><br/>
 </h2>
 <table><tr><td valign="top" width="50%">
 
@@ -101,5 +94,3 @@
 </div>
 </td>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=F79C82&width=435&lines=%22Your+skill+should+be+;+better+than+your+strength.%22)](https://git.io/typing-svg)
