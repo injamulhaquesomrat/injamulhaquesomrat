@@ -1,6 +1,6 @@
 <!-- intro  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=400&size=40&pause=100&color=C778DD&width=1000&lines=Hey+I+am+Injamul+Haque+Somrat;Web+designer+and+frontend+developer;Passionate+about+innovation+designs&center=true&vCenter=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=400&size=40&pause=100&color=C778DD&width=1000&lines=Hey+I+am+Injamul+Haque+Somrat;Web+designer+and+frontend+developer;Passionate+about+innovative+designs&center=true&vCenter=true)](https://git.io/typing-svg)
 
 
 
@@ -77,7 +77,7 @@
   <!-- end::bootstrap -->
    <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://vectorseek.com/wp-content/uploads/2023/09/Node-Node.JS-Logo-Vector.svg-.png" alt="Node.js" height="50" /></a>  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://seekvectors.com/files/download/express.js-logo.png" alt="Express.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=512&id=74402&format=png" alt="MongoDB" height="50" /></a>  
-<a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://img.stackshare.io/service/9787/49996085.png" alt="Testing Library" height="50" /></a>  
+<a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:496/1*bNvb_fLzWahi5LPmbFIS_A.png" alt="React Testing Library" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
 <!-- start::redux -->
