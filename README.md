@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&weight=400&size=40&pause=100&color=C778DD&width=1000&lines=Hey+I+am+Injamul+Haque+Somrat;Web+designer+and+frontend+developer;Passionate+about+innovative+designs&center=true&vCenter=true)](https://git.io/typing-svg)
 
-
-
 <!-- visitors  -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=haquesomrat&label=Profile%20views&color=0e75b6&style=flat" alt="injamulhaquesomrat" /> </p>
 
@@ -37,7 +35,6 @@
 <br/>
 
 ####
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=injamulhaquesomrat&layout=compact&theme=dark" alt="Top Languages" />
@@ -75,11 +72,24 @@
   <!-- start::bootstrap -->
    <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="Bootstrap" height="50" /></a>   
   <!-- end::bootstrap -->
-   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://vectorseek.com/wp-content/uploads/2023/09/Node-Node.JS-Logo-Vector.svg-.png" alt="Node.js" height="50" /></a>  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://seekvectors.com/files/download/express.js-logo.png" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=512&id=74402&format=png" alt="MongoDB" height="50" /></a>  
-<a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:496/1*bNvb_fLzWahi5LPmbFIS_A.png" alt="React Testing Library" height="50" /></a>  
+  <!-- start:nodejs -->
+   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://vectorseek.com/wp-content/uploads/2023/09/Node-Node.JS-Logo-Vector.svg-.png" alt="Node.js" height="50" /></a>  
+   <!-- end:nodejs -->
+   <!-- start::expressjs -->
+   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://seekvectors.com/files/download/express.js-logo.png" alt="Express.js" height="50" /></a>
+   <!-- end::expressjs -->
+     <!-- start:: mongodb -->
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=512&id=74402&format=png" alt="MongoDB" height="50" /></a>
+<!-- end:: mongodb -->  
+<!-- start:: react testing library -->
+<a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:496/1*bNvb_fLzWahi5LPmbFIS_A.png" alt="React Testing Library" height="50" /></a>
+<!-- end:: react testing library -->
+  <!-- start:: figma -->
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+  <!-- end:: figma -->
+  <!-- start:: firebase -->
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+  <!-- end:: firebase -->
 <!-- start::redux -->
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-redux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030243.png?f=webp" alt="Redux" height="50" /></a>
 <!-- end::redux -->
@@ -90,17 +100,37 @@
 
 ### Technologies I Aim to Master
 
-<div align="center">  
+<div align="center">
+  <!-- start:: vuejs -->
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+  <!-- end:: vuejs -->
+  <!-- start:: nextjs -->
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJs" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+  <!-- end:: nextjs -->
+  <!-- start:: php -->
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+  <!-- end :: php -->
+  <!-- start:: laravel -->
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+  <!-- end:: laravel -->
+<!-- start:: sass -->
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<!-- end:: sass -->
+<!-- start:: postgresql -->
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=160&id=JRnxU7ZWP4mi&format=png" alt="PostgreSQL" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFi4_-9fNmkOc4nkBq6YLPG8higxuZsBuXGQ&s" alt="Styled Components" height="50" /></a>  
+<!-- end:: postgresql -->
+<!-- start:: react native -->
+<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFi4_-9fNmkOc4nkBq6YLPG8higxuZsBuXGQ&s" alt="React native" height="50" /></a>  
+<!-- end:: react native -->
+<!-- start:;mariadb -->
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
+<!-- end:;mariadb -->
+<!-- start::docker -->
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
+<!-- end::docker -->
+<!-- start:: graphql -->
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" height="50" /></a>  
+<!-- end:: graphql -->
 </div>
 </td>
 </div>
